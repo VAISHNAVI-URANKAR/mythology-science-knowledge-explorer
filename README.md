@@ -97,6 +97,33 @@ Use the end-to-end checklist in `README_PHP_SETUP.md`: create an account, confir
 
 The quiz and Sage AI chatbot include browser-based voice features using the Web Speech API. No paid voice API or Python service is required. Chrome/Edge generally provide the best support.
 
+#### 📸 Screenshots
+
+Explore the main features of the Mythology Science Knowledge Explorer.
+
+### 🏠 Homepage
+
+![Homepage](screenshots/Home.png)
+
+### 📚 Mythology Explorer
+
+![Mythology Explorer](screenshots/story.png)
+
+### 🧠 Interactive Quiz
+
+![Interactive Quiz](screenshots/quiz.png)
+
+### 🗺️ Evidence & Map
+
+![Evidence and Map](screenshots/Map.png)
+
+### 👤 User Dashboard
+
+![User Dashboard](screenshots/Dashboard.png)
+
+### 🤖 Sage AI Knowledge Assistant
+
+![Sage AI Knowledge Assistant](screenshots/AIagent.png)
 
 ## GitHub publication checklist
 
