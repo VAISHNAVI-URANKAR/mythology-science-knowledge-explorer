@@ -111,7 +111,7 @@ Explore the main features of the Mythology Science Knowledge Explorer.
 
 ### 🧠 Interactive Quiz
 
-![Interactive Quiz](screenshots/quiz.png)
+![Interactive Quiz](screenshots/Quiz.png)
 
 ### 🗺️ Evidence & Map
 
@@ -123,7 +123,7 @@ Explore the main features of the Mythology Science Knowledge Explorer.
 
 ### 🤖 Sage AI Knowledge Assistant
 
-![Sage AI Knowledge Assistant](screenshots/AIagent.png)
+![Sage AI Knowledge Assistant](screenshots/AI-agent.png)
 
 ## GitHub publication checklist
 
