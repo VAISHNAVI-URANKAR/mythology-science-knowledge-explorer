@@ -103,27 +103,27 @@ Explore the main features of the Mythology Science Knowledge Explorer.
 
 ### 🏠 Homepage
 
-![Homepage](Home.png)
+![Homepage](Home.jpng)
 
 ### 📚 Mythology Explorer
 
-![Mythology Explorer](story.png)
+![Mythology Explorer](story.jpng)
 
 ### 🧠 Interactive Quiz
 
-![Interactive Quiz](Quiz.png)
+![Interactive Quiz](Quiz.jpng)
 
 ### 🗺️ Evidence & Map
 
-![Evidence and Map](Map.png)
+![Evidence and Map](Map.jpng)
 
 ### 👤 User Dashboard
 
-![User Dashboard](Dashboard.png)
+![User Dashboard](Dashboard.jpng)
 
 ### 🤖 Sage AI Knowledge Assistant
 
-![Sage AI Knowledge Assistant](AI-agent.png)
+![Sage AI Knowledge Assistant](AI-agent.jpng)
 
 ## GitHub publication checklist
 
